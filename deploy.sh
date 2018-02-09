@@ -1,1 +1,1 @@
-cp -Rfv dotvim ~/.vimtwo && cp -f vimrc ~/.vimrctwo 
+cp -Rfv dotvim ~/.vim && cp -f vimrc ~/.vimrc 
