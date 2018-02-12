@@ -1,0 +1,5 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =3
+let g:netrw_dirhist_1='/Users/trentgerman/Code/cluster_manager/config.prod'
+let g:netrw_dirhist_2='/Users/trentgerman/Code/cluster_manager/clusterMgmt'
+let g:netrw_dirhist_3='/Users/trentgerman/vimsettings/dotvim'
