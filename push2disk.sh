@@ -1,1 +1,1 @@
-rsync -avv dotvim/ ~/.vim --delete  && rsync -avv vimrc ~/.vimrc  --inplace --append
+rsync -avv dotvim/ ~/.vim --delete  && rsync -avv vimrc ~/.vimrc  
