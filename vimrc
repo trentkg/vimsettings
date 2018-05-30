@@ -11,3 +11,5 @@ set fo-=l
 ""Automatically wrap 
 "set tw=0 
 "To stop automatic wrapping, unset textwidth using:
+au BufNewFile,BufRead *.tpl set ft=sh 
+"set .tpl filetypes to use sh scripts
