@@ -8,3 +8,5 @@ colorscheme solarized
 set hlsearch
 au BufNewFile,BufRead *.tpl set ft=sh 
 "set .tpl filetypes to use sh scripts
+set laststatus=2
+set statusline+=%F
